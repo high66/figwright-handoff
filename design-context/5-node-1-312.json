@@ -1,0 +1,1411 @@
+{
+  "nodes": [
+    {
+      "id": "1:312",
+      "name": "Cozmic Artefactz_main_test drive_thnk",
+      "type": "FRAME",
+      "x": 9002,
+      "y": 5,
+      "width": 1600,
+      "height": 900,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "clipsContent": true,
+      "fill": "fill_nll9eq",
+      "children": [
+        {
+          "id": "1:314",
+          "name": "Milkyway",
+          "type": "RECTANGLE",
+          "x": 0,
+          "y": 0,
+          "width": 1600,
+          "height": 900,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fill": "fill_6xlqtj"
+        },
+        {
+          "id": "1:315",
+          "name": "bg_tint",
+          "type": "RECTANGLE",
+          "x": 0,
+          "y": 0,
+          "width": 1600,
+          "height": 900,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fill": "fill_19x4rpm"
+        },
+        {
+          "id": "1:316",
+          "name": "board",
+          "type": "RECTANGLE",
+          "x": 993,
+          "y": 33,
+          "width": 235,
+          "height": 1084,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fill": "fill_qc8crv"
+        },
+        {
+          "id": "1:317",
+          "name": "Mountains",
+          "type": "RECTANGLE",
+          "x": 0,
+          "y": 167,
+          "width": 1600,
+          "height": 1353,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fill": "fill_13grbik"
+        },
+        {
+          "id": "1:322",
+          "name": "Rectangle 16",
+          "type": "RECTANGLE",
+          "x": 1000,
+          "y": 0,
+          "width": 600,
+          "height": 900,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "fill": "fill_km1mgn"
+        },
+        {
+          "id": "1:323",
+          "name": "Thank You, Beings Of Light will contact You shortly...",
+          "type": "TEXT",
+          "x": 1080,
+          "y": 267,
+          "width": 370,
+          "height": 120,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "characters": "Thank You, Beings Of Light will contact You shortly...",
+          "fontSize": 35,
+          "fontName": "mixed",
+          "lineHeight": {
+            "value": 40,
+            "unit": "PIXELS"
+          },
+          "letterSpacing": {
+            "value": 1,
+            "unit": "PERCENT"
+          },
+          "textAlignVertical": "CENTER",
+          "textAutoResize": "HEIGHT",
+          "segments": [
+            {
+              "characters": "Thank You, Beings Of Light will contact You shortly...",
+              "start": 0,
+              "end": 54,
+              "fontName": {
+                "family": "Roboto",
+                "style": "Regular",
+                "variationSettings": {
+                  "wdth": 100,
+                  "wght": 400
+                }
+              },
+              "fontSize": 35,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#B8BFB8"
+                }
+              ],
+              "textDecoration": "NONE",
+              "textCase": "ORIGINAL",
+              "lineHeight": {
+                "value": 40,
+                "unit": "PIXELS"
+              },
+              "letterSpacing": {
+                "value": 1,
+                "unit": "PERCENT"
+              }
+            }
+          ],
+          "fill": "fill_187rq8e"
+        },
+        {
+          "id": "1:324",
+          "name": "Menu",
+          "type": "GROUP",
+          "x": 1320,
+          "y": 50,
+          "width": 130,
+          "height": 50,
+          "children": [
+            {
+              "id": "1:325",
+              "name": "burger_menu",
+              "type": "FRAME",
+              "x": 1320,
+              "y": 50,
+              "width": 50,
+              "height": 50,
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "clipsContent": false,
+              "fill": "fill_16zfsl5",
+              "children": [
+                {
+                  "id": "1:326",
+                  "name": "Line 32",
+                  "type": "LINE",
+                  "x": 11,
+                  "y": 11,
+                  "width": 40,
+                  "height": 0,
+                  "rotation": -45,
+                  "cssTransform": "rotate(45deg)",
+                  "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 28.28,
+                    "height": 28.28
+                  },
+                  "fills": [],
+                  "strokeWeight": 2,
+                  "strokeAlign": "CENTER",
+                  "strokeCap": "ROUND",
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "stroke": "fill_187rq8e"
+                },
+                {
+                  "id": "1:327",
+                  "name": "Line 34",
+                  "type": "LINE",
+                  "x": 10.999954223632812,
+                  "y": 39.00004577636719,
+                  "width": 40,
+                  "height": 0,
+                  "rotation": 45,
+                  "cssTransform": "rotate(-45deg)",
+                  "boundingBox": {
+                    "x": 0,
+                    "y": -28.28,
+                    "width": 28.28,
+                    "height": 28.28
+                  },
+                  "fills": [],
+                  "strokeWeight": 2,
+                  "strokeAlign": "CENTER",
+                  "strokeCap": "ROUND",
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "stroke": "fill_187rq8e"
+                }
+              ]
+            },
+            {
+              "id": "1:328",
+              "name": "Test_drive",
+              "type": "FRAME",
+              "x": 1400,
+              "y": 50,
+              "width": 50,
+              "height": 50,
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "clipsContent": true,
+              "fill": "fill_16zfsl5",
+              "children": [
+                {
+                  "id": "1:329",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 20.436506271362305,
+                  "y": 20.857702255249023,
+                  "width": 9.325395584106445,
+                  "height": 4.2884979248046875,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:330",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 8.928570747375488,
+                  "y": 9.746588706970215,
+                  "width": 33.27821731567383,
+                  "height": 28.070175170898438,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:331",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 24.404760360717773,
+                  "y": 21.734891891479492,
+                  "width": 1.1904754638671875,
+                  "height": 2.729045867919922,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:332",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 13.49206256866455,
+                  "y": 6.725149154663086,
+                  "width": 23.015872955322266,
+                  "height": 16.959064483642578,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:333",
+                  "name": "outline",
+                  "type": "VECTOR",
+                  "x": 1.4880951642990112,
+                  "y": 1.4619883298873901,
+                  "width": 47.02381134033203,
+                  "height": 46.19883346557617,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:334",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 3.373016595840454,
+                  "y": 2.5341105461120605,
+                  "width": 3.5714285373687744,
+                  "height": 4.385965347290039,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:335",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 3.571427583694458,
+                  "y": 44.05458450317383,
+                  "width": 3.2738096714019775,
+                  "height": 4.483428955078125,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:336",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 43.849205017089844,
+                  "y": 44.05458450317383,
+                  "width": 2.9761924743652344,
+                  "height": 4.483428955078125,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                },
+                {
+                  "id": "1:337",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 43.45237731933594,
+                  "y": 2.339183807373047,
+                  "width": 3.373016357421875,
+                  "height": 4.6783623695373535,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:338",
+          "name": "typo",
+          "type": "GROUP",
+          "x": 150,
+          "y": 267,
+          "width": 743,
+          "height": 278,
+          "children": [
+            {
+              "id": "1:339",
+              "name": "1st_pg_typo",
+              "type": "GROUP",
+              "x": 150,
+              "y": 267,
+              "width": 743,
+              "height": 78,
+              "children": [
+                {
+                  "id": "1:341",
+                  "name": "By amplifying the force inherent in each of us, Cozmic Artefactz becomes a portal of infinite realities. It is You who must adventure, expirience and explore. It is You who make everything possible...",
+                  "type": "TEXT",
+                  "x": 150,
+                  "y": 267,
+                  "width": 743,
+                  "height": 78,
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "characters": "By amplifying the force inherent in each of us, Cozmic Artefactz becomes a portal of infinite realities. It is You who must adventure, expirience and explore. It is You who make everything possible...",
+                  "fontSize": 20,
+                  "fontName": "mixed",
+                  "lineHeight": {
+                    "value": 26,
+                    "unit": "PIXELS"
+                  },
+                  "letterSpacing": {
+                    "value": 1,
+                    "unit": "PERCENT"
+                  },
+                  "textAlignVertical": "CENTER",
+                  "textAutoResize": "HEIGHT",
+                  "segments": [
+                    {
+                      "characters": "By amplifying the force inherent in each of us, Cozmic Artefactz becomes a portal of infinite realities. It is You who must adventure, expirience and explore. It is You who make everything possible...",
+                      "start": 0,
+                      "end": 200,
+                      "fontName": {
+                        "family": "Roboto",
+                        "style": "Regular",
+                        "variationSettings": {
+                          "wdth": 100,
+                          "wght": 400
+                        }
+                      },
+                      "fontSize": 20,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "color": "#DADADA"
+                        }
+                      ],
+                      "textDecoration": "NONE",
+                      "textCase": "ORIGINAL",
+                      "lineHeight": {
+                        "value": 26,
+                        "unit": "PIXELS"
+                      },
+                      "letterSpacing": {
+                        "value": 1,
+                        "unit": "PERCENT"
+                      }
+                    }
+                  ],
+                  "fill": "fill_qi37y9"
+                }
+              ]
+            },
+            {
+              "id": "1:342",
+              "name": "test_drive",
+              "type": "GROUP",
+              "x": 150,
+              "y": 385,
+              "width": 642,
+              "height": 50,
+              "children": [
+                {
+                  "id": "1:343",
+                  "name": "Test_drive",
+                  "type": "FRAME",
+                  "x": 150,
+                  "y": 385,
+                  "width": 50,
+                  "height": 50,
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "clipsContent": true,
+                  "fill": "fill_16zfsl5",
+                  "children": [
+                    {
+                      "id": "1:344",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 20.436538696289062,
+                      "y": 20.857730865478516,
+                      "width": 9.325393676757812,
+                      "height": 4.288501739501953,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:345",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 8.928586959838867,
+                      "y": 9.746593475341797,
+                      "width": 33.27821350097656,
+                      "height": 28.070175170898438,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:346",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 24.404563903808594,
+                      "y": 21.73491668701172,
+                      "width": 1.1904773712158203,
+                      "height": 2.729043960571289,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:347",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 13.492292404174805,
+                      "y": 6.725173473358154,
+                      "width": 23.0158634185791,
+                      "height": 16.959060668945312,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:348",
+                      "name": "outline",
+                      "type": "VECTOR",
+                      "x": 1.4880138635635376,
+                      "y": 1.4620361328125,
+                      "width": 47.02381134033203,
+                      "height": 46.19883728027344,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:349",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 3.3728373050689697,
+                      "y": 2.534067153930664,
+                      "width": 3.5714285373687744,
+                      "height": 4.385965347290039,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:350",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 3.571411371231079,
+                      "y": 44.05451583862305,
+                      "width": 3.273808240890503,
+                      "height": 4.483428955078125,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:351",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 43.84913635253906,
+                      "y": 44.05451583862305,
+                      "width": 2.9761962890625,
+                      "height": 4.483428955078125,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    },
+                    {
+                      "id": "1:352",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 43.45227813720703,
+                      "y": 2.3392333984375,
+                      "width": 3.3730239868164062,
+                      "height": 4.678362846374512,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_3xpxam"
+                    }
+                  ]
+                },
+                {
+                  "id": "1:353",
+                  "name": "Arrow",
+                  "type": "VECTOR",
+                  "x": 215,
+                  "y": 410,
+                  "width": 30,
+                  "height": 0,
+                  "rotation": 9.213866198408551e-15,
+                  "fills": [],
+                  "strokeWeight": 2,
+                  "strokeAlign": "CENTER",
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "stroke": "fill_187rq8e"
+                },
+                {
+                  "id": "1:354",
+                  "name": "We are the vehicle, You are the hero - book your test drive",
+                  "type": "TEXT",
+                  "x": 260,
+                  "y": 395,
+                  "width": 532,
+                  "height": 30,
+                  "constraints": {
+                    "horizontal": "MIN",
+                    "vertical": "MIN"
+                  },
+                  "characters": "We are the vehicle, You are the hero - book your test drive",
+                  "fontSize": 20,
+                  "fontName": "mixed",
+                  "lineHeight": {
+                    "value": 26,
+                    "unit": "PIXELS"
+                  },
+                  "letterSpacing": {
+                    "value": 1,
+                    "unit": "PERCENT"
+                  },
+                  "textDecoration": "mixed",
+                  "textAlignVertical": "CENTER",
+                  "textAutoResize": "NONE",
+                  "segments": [
+                    {
+                      "characters": "We are the vehicle, You are the hero - ",
+                      "start": 0,
+                      "end": 39,
+                      "fontName": {
+                        "family": "Roboto",
+                        "style": "Regular",
+                        "variationSettings": {
+                          "wdth": 100,
+                          "wght": 400
+                        }
+                      },
+                      "fontSize": 20,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "color": "#DADADA"
+                        }
+                      ],
+                      "textDecoration": "NONE",
+                      "textCase": "ORIGINAL",
+                      "lineHeight": {
+                        "value": 26,
+                        "unit": "PIXELS"
+                      },
+                      "letterSpacing": {
+                        "value": 1,
+                        "unit": "PERCENT"
+                      }
+                    },
+                    {
+                      "characters": "book your test drive",
+                      "start": 39,
+                      "end": 59,
+                      "fontName": {
+                        "family": "Roboto",
+                        "style": "Regular",
+                        "variationSettings": {
+                          "wdth": 100,
+                          "wght": 400
+                        }
+                      },
+                      "fontSize": 20,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "color": "#DADADA"
+                        }
+                      ],
+                      "textDecoration": "UNDERLINE",
+                      "textCase": "ORIGINAL",
+                      "lineHeight": {
+                        "value": 26,
+                        "unit": "PIXELS"
+                      },
+                      "letterSpacing": {
+                        "value": 1,
+                        "unit": "PERCENT"
+                      }
+                    }
+                  ],
+                  "fill": "fill_qi37y9"
+                }
+              ]
+            },
+            {
+              "id": "1:355",
+              "name": "cta_butt",
+              "type": "FRAME",
+              "x": 150,
+              "y": 475,
+              "width": 320,
+              "height": 70,
+              "fills": [],
+              "strokeWeight": 3,
+              "strokeAlign": "INSIDE",
+              "constraints": {
+                "horizontal": "CENTER",
+                "vertical": "CENTER"
+              },
+              "clipsContent": true,
+              "stroke": "fill_3xpxam",
+              "children": [
+                {
+                  "id": "1:356",
+                  "name": "Choose your force",
+                  "type": "TEXT",
+                  "x": 26,
+                  "y": 20,
+                  "width": 268,
+                  "height": 30,
+                  "constraints": {
+                    "horizontal": "CENTER",
+                    "vertical": "CENTER"
+                  },
+                  "characters": "Choose your force",
+                  "fontSize": 24,
+                  "fontName": "mixed",
+                  "textCase": "UPPER",
+                  "textAlignHorizontal": "CENTER",
+                  "textAlignVertical": "CENTER",
+                  "hyperlink": {
+                    "type": "URL",
+                    "value": "https://capitasnowboarding.com/collections/snowboards-mens"
+                  },
+                  "segments": [
+                    {
+                      "characters": "Choose your force",
+                      "start": 0,
+                      "end": 17,
+                      "fontName": {
+                        "family": "Amethysta",
+                        "style": "Regular"
+                      },
+                      "fontSize": 24,
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "color": "#FF595A"
+                        }
+                      ],
+                      "textDecoration": "NONE",
+                      "textCase": "UPPER",
+                      "hyperlink": {
+                        "type": "URL",
+                        "value": "https://capitasnowboarding.com/collections/snowboards-mens"
+                      }
+                    }
+                  ],
+                  "fill": "fill_3xpxam"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:357",
+          "name": "Social",
+          "type": "GROUP",
+          "x": 150,
+          "y": 715,
+          "width": 180,
+          "height": 40,
+          "children": [
+            {
+              "id": "1:358",
+              "name": "facebook 2",
+              "type": "FRAME",
+              "x": 150,
+              "y": 715,
+              "width": 40,
+              "height": 40,
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "clipsContent": true,
+              "fill": "fill_16zfsl5",
+              "children": [
+                {
+                  "id": "1:359",
+                  "name": "Group",
+                  "type": "GROUP",
+                  "x": 0,
+                  "y": 0,
+                  "width": 40,
+                  "height": 40,
+                  "children": [
+                    {
+                      "id": "1:360",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 0,
+                      "y": 0,
+                      "width": 40,
+                      "height": 40,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_187rq8e"
+                    },
+                    {
+                      "id": "1:361",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "x": 13.480696678161621,
+                      "y": 7.758940696716309,
+                      "width": 12.031798362731934,
+                      "height": 26.098251342773438,
+                      "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "SCALE"
+                      },
+                      "fill": "fill_n6r47u"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "1:362",
+              "name": "instagram",
+              "type": "FRAME",
+              "x": 290,
+              "y": 715,
+              "width": 40,
+              "height": 40,
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "clipsContent": true,
+              "fill": "fill_16zfsl5",
+              "children": [
+                {
+                  "id": "1:363",
+                  "name": "Ellipse 29",
+                  "type": "ELLIPSE",
+                  "x": 0,
+                  "y": 0,
+                  "width": 40,
+                  "height": 40,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_187rq8e"
+                },
+                {
+                  "id": "1:364",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 7.200000286102295,
+                  "y": 7.200000286102295,
+                  "width": 25.599998474121094,
+                  "height": 25.599998474121094,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_n6r47u"
+                },
+                {
+                  "id": "1:365",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 13.600000381469727,
+                  "y": 13.600000381469727,
+                  "width": 12.80000114440918,
+                  "height": 12.80000114440918,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_n6r47u"
+                },
+                {
+                  "id": "1:366",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 25.599998474121094,
+                  "y": 11.999999046325684,
+                  "width": 3.200002670288086,
+                  "height": 2.4000015258789062,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_n6r47u"
+                }
+              ]
+            },
+            {
+              "id": "1:367",
+              "name": "youtube",
+              "type": "FRAME",
+              "x": 220,
+              "y": 715,
+              "width": 40,
+              "height": 40,
+              "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+              },
+              "clipsContent": true,
+              "fill": "fill_16zfsl5",
+              "children": [
+                {
+                  "id": "1:368",
+                  "name": "Ellipse 30",
+                  "type": "ELLIPSE",
+                  "x": 0,
+                  "y": 0,
+                  "width": 40,
+                  "height": 40,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_n6r47u"
+                },
+                {
+                  "id": "1:369",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 17.508840560913086,
+                  "y": 16.253032684326172,
+                  "width": 6.505739212036133,
+                  "height": 7.493898391723633,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_187rq8e"
+                },
+                {
+                  "id": "1:370",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "x": 0,
+                  "y": 0,
+                  "width": 40,
+                  "height": 40,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_187rq8e"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "78:123",
+          "name": "kult of quantum force",
+          "type": "TEXT",
+          "x": 150,
+          "y": 200,
+          "width": 622,
+          "height": 57,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "characters": "Kult Of Quantum Force",
+          "fontSize": 45,
+          "fontName": "mixed",
+          "textCase": "UPPER",
+          "textAlignHorizontal": "CENTER",
+          "segments": [
+            {
+              "characters": "Kult Of Quantum Force",
+              "start": 0,
+              "end": 21,
+              "fontName": {
+                "family": "Amethysta",
+                "style": "Regular"
+              },
+              "fontSize": 45,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#DADADA"
+                }
+              ],
+              "textDecoration": "NONE",
+              "textCase": "UPPER"
+            }
+          ],
+          "fill": "fill_qi37y9"
+        },
+        {
+          "id": "78:124",
+          "name": "Cozmic Artifactz",
+          "type": "TEXT",
+          "x": 150,
+          "y": 50,
+          "width": 400,
+          "height": 50,
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "characters": "Cozmic       Artifactz",
+          "fontSize": 40,
+          "fontName": "mixed",
+          "textDecoration": "mixed",
+          "segments": [
+            {
+              "characters": "Co",
+              "start": 0,
+              "end": 2,
+              "fontName": {
+                "family": "Amethysta",
+                "style": "Regular"
+              },
+              "fontSize": 40,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#FF595A"
+                }
+              ],
+              "textDecoration": "NONE",
+              "textCase": "ORIGINAL"
+            },
+            {
+              "characters": "z",
+              "start": 2,
+              "end": 3,
+              "fontName": {
+                "family": "Amethysta",
+                "style": "Regular"
+              },
+              "fontSize": 40,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#FF595A"
+                }
+              ],
+              "textDecoration": "STRIKETHROUGH",
+              "textCase": "ORIGINAL"
+            },
+            {
+              "characters": "mic       Artifact",
+              "start": 3,
+              "end": 21,
+              "fontName": {
+                "family": "Amethysta",
+                "style": "Regular"
+              },
+              "fontSize": 40,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#FF595A"
+                }
+              ],
+              "textDecoration": "NONE",
+              "textCase": "ORIGINAL"
+            },
+            {
+              "characters": "z",
+              "start": 21,
+              "end": 22,
+              "fontName": {
+                "family": "Amethysta",
+                "style": "Regular"
+              },
+              "fontSize": 40,
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#FF595A"
+                }
+              ],
+              "textDecoration": "STRIKETHROUGH",
+              "textCase": "ORIGINAL"
+            }
+          ],
+          "fill": "fill_3xpxam"
+        },
+        {
+          "id": "78:125",
+          "name": "CA_Logo",
+          "type": "INSTANCE",
+          "x": 309,
+          "y": 50,
+          "width": 50,
+          "height": 50,
+          "fills": [],
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "clipsContent": false,
+          "mainComponentId": "1:9",
+          "mainComponent": {
+            "id": "1:9",
+            "name": "CA_Logo",
+            "key": "fe1242f0a37681ac84e910f2824e2312f2906626"
+          },
+          "children": [
+            {
+              "id": "I78:125;1:10",
+              "name": "Ellipse 1",
+              "type": "ELLIPSE",
+              "x": -2.307692289352417,
+              "y": -2.307692289352417,
+              "width": 54.61538314819336,
+              "height": 54.61538314819336,
+              "fills": [],
+              "strokeWeight": 2,
+              "strokeAlign": "OUTSIDE",
+              "constraints": {
+                "horizontal": "SCALE",
+                "vertical": "SCALE"
+              },
+              "stroke": "fill_3xpxam"
+            },
+            {
+              "id": "I78:125;444:277",
+              "name": "Polygon 1",
+              "type": "POLYGON",
+              "x": -8.076923370361328,
+              "y": -8.076923370361328,
+              "width": 66.15384674072266,
+              "height": 66.15384674072266,
+              "fills": [],
+              "strokeWeight": 2,
+              "strokeAlign": "OUTSIDE",
+              "strokeCap": "ROUND",
+              "constraints": {
+                "horizontal": "SCALE",
+                "vertical": "SCALE"
+              },
+              "stroke": "fill_3xpxam"
+            },
+            {
+              "id": "I78:125;1:11",
+              "name": "Polygon 2",
+              "type": "POLYGON",
+              "x": 1.5384615659713745,
+              "y": 1.5384615659713745,
+              "width": 46.92307662963867,
+              "height": 46.92307662963867,
+              "fills": [],
+              "strokeWeight": 2,
+              "strokeAlign": "OUTSIDE",
+              "strokeCap": "ROUND",
+              "constraints": {
+                "horizontal": "SCALE",
+                "vertical": "SCALE"
+              },
+              "stroke": "fill_3xpxam"
+            },
+            {
+              "id": "I78:125;444:3911",
+              "name": "eye",
+              "type": "GROUP",
+              "x": 15,
+              "y": 21.53845977783203,
+              "width": 20,
+              "height": 6.92307710647583,
+              "children": [
+                {
+                  "id": "I78:125;1:12",
+                  "name": "Ellipse 2",
+                  "type": "VECTOR",
+                  "x": 15,
+                  "y": 21.53845977783203,
+                  "width": 20,
+                  "height": 6.92307710647583,
+                  "fills": [],
+                  "strokeWeight": 2,
+                  "strokeAlign": "OUTSIDE",
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "stroke": "fill_3xpxam"
+                },
+                {
+                  "id": "I78:125;1:13",
+                  "name": "Ellipse 3",
+                  "type": "ELLIPSE",
+                  "x": 22.69230842590332,
+                  "y": 21.53845977783203,
+                  "width": 4.615384578704834,
+                  "height": 4.615384578704834,
+                  "fills": [],
+                  "strokeWeight": 2,
+                  "strokeAlign": "OUTSIDE",
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "stroke": "fill_3xpxam"
+                },
+                {
+                  "id": "I78:125;444:381",
+                  "name": "Ellipse 4",
+                  "type": "ELLIPSE",
+                  "x": 24.230769157409668,
+                  "y": 23.076923370361328,
+                  "width": 1.5384615659713745,
+                  "height": 1.5384615659713745,
+                  "constraints": {
+                    "horizontal": "SCALE",
+                    "vertical": "SCALE"
+                  },
+                  "fill": "fill_3xpxam"
+                }
+              ]
+            },
+            {
+              "id": "I78:125;1:14",
+              "name": "Line 1",
+              "type": "LINE",
+              "visible": false,
+              "x": 6.153846263885498,
+              "y": 16.923076629638672,
+              "width": 37.69230651855469,
+              "height": 0,
+              "fills": [],
+              "strokeWeight": 2,
+              "strokeAlign": "OUTSIDE",
+              "strokeCap": "ROUND",
+              "constraints": {
+                "horizontal": "SCALE",
+                "vertical": "SCALE"
+              },
+              "stroke": "fill_3xpxam"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "fill_nll9eq": [
+        {
+          "type": "SOLID",
+          "color": "#FFFFFF"
+        }
+      ],
+      "fill_6xlqtj": [
+        {
+          "type": "IMAGE",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [
+              -0.995556,
+              0,
+              0.999956
+            ],
+            [
+              0,
+              -0.840336,
+              0.971989
+            ]
+          ],
+          "cssTransform": "translate(100.442%, 115.6667%) matrix(-1.0045, 0, 0, -1.19, 0, 0)",
+          "filtersApplied": true
+        }
+      ],
+      "fill_19x4rpm": [
+        {
+          "type": "SOLID",
+          "color": "#00000066"
+        }
+      ],
+      "fill_qc8crv": [
+        {
+          "type": "IMAGE",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [
+              0.506944,
+              0,
+              0
+            ],
+            [
+              0,
+              0.930472,
+              0.035193
+            ]
+          ],
+          "cssTransform": "translate(0%, -3.7823%) scale(1.9726, 1.0747)",
+          "filtersApplied": true
+        }
+      ],
+      "fill_13grbik": [
+        {
+          "type": "IMAGE",
+          "scaleMode": "CROP",
+          "imageTransform": [
+            [
+              0.879765,
+              0,
+              0.120051
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "cssTransform": "translate(-13.6458%, 0%) scale(1.1367, 1)",
+          "filtersApplied": true
+        }
+      ],
+      "fill_km1mgn": [
+        {
+          "type": "GRADIENT_LINEAR",
+          "gradientStops": [
+            {
+              "position": 0.953125,
+              "color": "#000000CC"
+            },
+            {
+              "position": 1,
+              "color": "#00000000"
+            }
+          ],
+          "gradientTransform": [
+            [
+              -1,
+              -1.3876704940685158e-7,
+              1.0000001192092896
+            ],
+            [
+              1.1787052045519886e-7,
+              -7.91015625,
+              4.455078125
+            ]
+          ],
+          "cssAngle": 270
+        }
+      ],
+      "fill_187rq8e": [
+        {
+          "type": "SOLID",
+          "color": "#B8BFB8"
+        }
+      ],
+      "fill_16zfsl5": [
+        {
+          "type": "SOLID",
+          "color": "#FFFFFF",
+          "visible": false
+        }
+      ],
+      "fill_3xpxam": [
+        {
+          "type": "SOLID",
+          "color": "#FF595A"
+        }
+      ],
+      "fill_qi37y9": [
+        {
+          "type": "SOLID",
+          "color": "#DADADA"
+        }
+      ],
+      "fill_n6r47u": [
+        {
+          "type": "SOLID",
+          "color": "#4D0000"
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "nodeCount": 64,
+    "maxDepth": 5,
+    "styleCount": 11,
+    "tokenCount": 0,
+    "inlineSizeKb": 23.02,
+    "dedupedSizeKb": 18.71
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "note": "This tree serialized to ~71k chars — beyond what a tool result can deliver. Ground it section by section: call get_design_context per section nodeId (detail: full, dedupeComponents: true) and build each before moving on. Do not retry this call unscoped and do not depth-cap the whole page.",
+  "nodes": [
+    {
+      "id": "3:94",
+      "name": "Cozmic Artefactz_boards_test drive_thnk",
+      "type": "FRAME",
+      "x": 10702,
+      "y": 1055,
+      "width": 1600,
+      "height": 900,
+      "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+      },
+      "clipsContent": true
+    }
+  ],
+  "sectionPlan": {
+    "reason": "payload-size",
+    "payloadChars": 70607,
+    "sections": [
+      {
+        "nodeId": "3:97",
+        "name": "Milkyway",
+        "type": "RECTANGLE",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:98",
+        "name": "Mountains",
+        "type": "RECTANGLE",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:99",
+        "name": "bg_tint",
+        "type": "RECTANGLE",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:104",
+        "name": "board_1",
+        "type": "RECTANGLE",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:105",
+        "name": "Rectangle 16",
+        "type": "RECTANGLE",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:242",
+        "name": "Thank You, Beings Of Light will contact You shortly...",
+        "type": "TEXT",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "3:106",
+        "name": "Menu",
+        "type": "GROUP",
+        "childCount": 2,
+        "nodes": 14
+      },
+      {
+        "nodeId": "501:247",
+        "name": "Board_anathomy",
+        "type": "FRAME",
+        "childCount": 3,
+        "nodes": 242
+      },
+      {
+        "nodeId": "71:97",
+        "name": "Your test drive_input",
+        "type": "FRAME",
+        "childCount": 4,
+        "nodes": 5
+      },
+      {
+        "nodeId": "3:227",
+        "name": "typo",
+        "type": "GROUP",
+        "childCount": 5,
+        "nodes": 10
+      },
+      {
+        "nodeId": "78:159",
+        "name": "Cozmic Artifactz",
+        "type": "TEXT",
+        "childCount": 0,
+        "nodes": 1
+      },
+      {
+        "nodeId": "78:160",
+        "name": "CA_Logo",
+        "type": "INSTANCE",
+        "childCount": 5,
+        "nodes": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"mappings\":[],\"unmapped\":[],\"themedCollections\":[],\"profile\":{\"rootDir\":\"/Users/artem/Documents/figwright-handoff-exporter\",\"framework\":\"unknown\",\"language\":\"js\",\"styling\":{\"system\":\"unknown\"},\"svg\":{\"mode\":\"url\"},\"componentExtensions\":[\".tsx\",\".jsx\",\".vue\",\".svelte\"],\"evidence\":[\"framework=unknown: no known framework dependency\",\"language=js: no ts signal\",\"styling=unknown: no styling signal in manifest\",\"classNaming=none: no preprocessor stylesheet found\",\"svg=url: no svg loader dep → svg imports resolve to a URL (use <img src> or inline svg)\"]},\"tokenSource\":null,\"projectTokenCount\":0,\"note\":\"no token source detected; pass tokenSource\"}"
+    }
+  ]
+}

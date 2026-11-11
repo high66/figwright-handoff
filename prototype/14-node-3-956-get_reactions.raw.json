@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"nodeId\":\"3:956\",\"reactions\":[{\"trigger\":{\"type\":\"ON_CLICK\"},\"actions\":[{\"type\":\"NODE\",\"destinationId\":\"1:1009\",\"navigation\":\"NAVIGATE\",\"transition\":{\"type\":\"SMART_ANIMATE\",\"easing\":{\"type\":\"EASE_OUT\"},\"duration\":0.30000001192092896},\"resetVideoPosition\":false,\"preserveScrollPosition\":false}]}]}"
+    }
+  ]
+}

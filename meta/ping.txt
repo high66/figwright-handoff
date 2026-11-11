@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "hop": "e2e",
+  "server": {
+    "version": "0.7.0",
+    "role": "follower",
+    "port": null,
+    "ts": 1794424619756,
+    "buildId": 1793008700064,
+    "leaderVersion": "0.7.0",
+    "leaderBuildId": 1793008700064
+  },
+  "plugin": {
+    "apiVersion": "1.0.0",
+    "editorType": "figma",
+    "currentPageId": "0:1",
+    "currentPageName": "✅ Ready - Prototyped",
+    "fileKey": null,
+    "ts": 1794424619791
+  }
+}

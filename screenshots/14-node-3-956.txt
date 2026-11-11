@@ -1,0 +1,1 @@
+{"saved":[{"nodeId":"3:956","format":"PNG","path":"/Users/artem/Documents/figma-handoff/my-site/screenshots/14-node-3-956/3-956.png"}]}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"ok\": true,\n  \"hop\": \"e2e\",\n  \"server\": {\n    \"version\": \"0.7.0\",\n    \"role\": \"follower\",\n    \"port\": null,\n    \"ts\": 1794424619756,\n    \"buildId\": 1793008700064,\n    \"leaderVersion\": \"0.7.0\",\n    \"leaderBuildId\": 1793008700064\n  },\n  \"plugin\": {\n    \"apiVersion\": \"1.0.0\",\n    \"editorType\": \"figma\",\n    \"currentPageId\": \"0:1\",\n    \"currentPageName\": \"✅ Ready - Prototyped\",\n    \"fileKey\": null,\n    \"ts\": 1794424619791\n  }\n}"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"nodeId":"1:147","reactions":[{"trigger":{"type":"ON_CLICK"},"actions":[{"type":"NODE","destinationId":"1:15","navigation":"NAVIGATE","transition":{"type":"SMART_ANIMATE","easing":{"type":"EASE_OUT"},"duration":0.30000001192092896},"resetVideoPosition":false,"preserveScrollPosition":false}]}]}
